@@ -13,7 +13,7 @@
     "authors": [
       {
         "collective_name": null,
-        "first_name": "T leonardo",
+        "first_name": None,
         "last_name": "Betancur",
         "initials": "TL",
         "is_personal": true,
